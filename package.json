@@ -1,0 +1,31 @@
+{
+  "name": "amoauth2",
+  "version": "0.1.0",
+  "description": "amoCRM OAuth2.0 Client for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stansaal/amoauth2.git"
+  },
+  "keywords": [
+    "amocrm",
+    "api",
+    "oauth2.0",
+    "authorization",
+    "nodejs"
+  ],
+  "author": "Stan Saal <stanislav.saal@ya.ru> (https://stansaal.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stansaal/amoauth2/issues"
+  },
+  "homepage": "https://github.com/stansaal/amoauth2#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  },
+  "dependencies": {}
+}
